@@ -52,7 +52,7 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 | Tecnologia | Descrição |
 |------------|-----------|
 | 🧠 **C++** | Linguagem eficiente e poderosa para sistemas de baixo nível |
-| ⚡ **Arduino / ARM-STM32F303RE** | Microcontroladores usados nos testes |
+| ⚡ **Arduino / AVR-ATmega328 E ARM-STM32F303RE** | Microcontroladores usados nos testes |
 | 👨‍💻 **Ambiente de Desenvolvimento** | [VS Code](https://code.visualstudio.com/) + [Extensões úteis](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) + [ARDUINO IDE](https://www.arduino.cc/) |
 | 🐳 **Containerização** | [Docker Desktop](https://www.docker.com/products/docker-desktop/) |
 | 💻 **Sistema Operacional** | Windows 10/11 |
@@ -68,8 +68,9 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 ---
 
 ## 🛠️ PROJETOS
-- [CARRO ROBO DESENVOLVIDO EM C++: ](https://github.com/Alice-grandel/CARRO-ROBO.RS) *(renomear o repositório, se quiser, para refletir C++)*
-
+- [CARRO ROBO DESENVOLVIDO EM C++: ](https://github.com/Alice-grandel/CARRO-ROBO.RS)
+- [BRAÇO ROBOTICO: ]
+- [ARANHA-ROBO COM SENSOR ULTRASSONICO E CONTROLE REMOTO]
 ---
 
 ## 📘 Documentação e tutoriais
