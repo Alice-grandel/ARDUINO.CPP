@@ -66,7 +66,10 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 </p>
 
 ---
+# ARDUINO COM RUST: 
+- [README PROJETO ARDUINO COM RUST](https://github.com/Alice-grandel/PROJETO.ARDUINO/blob/c++/README.md)
 
+---
 ## 🛠️ PROJETOS
 - [CARRO ROBO DESENVOLVIDO EM C++: ](https://github.com/Alice-grandel/CARRO-ROBO.RS)
 - [BRAÇO ROBOTICO: ]
