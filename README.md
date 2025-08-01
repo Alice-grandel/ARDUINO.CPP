@@ -125,11 +125,12 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 
 Este projeto é um exemplo básico de como fazer o LED da placa piscar.  
 
-https://github.com/user-attachments/assets/dde19617-004a-4577-8790-95df936ba960
+https://github.com/user-attachments/assets/44cf57d2-f90e-4191-b477-78f5926ec135
+
 
 
 ## CÓDIGO PRINCIPAL PISCAR LED:
-<img width="742" height="606" alt="Untitled" src="https://github.com/user-attachments/assets/87b943a5-46c3-4db9-ba30-ecb78ed99869" />
+<img width="829" height="572" alt="semaforo" src="https://github.com/user-attachments/assets/b98f703c-de52-4b2e-a9d0-4bbf7e5335a1" />
 
 ---
 
