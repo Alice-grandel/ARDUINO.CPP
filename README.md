@@ -53,7 +53,7 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 |------------|-----------|
 | 🧠 **C++** | Linguagem eficiente e poderosa para sistemas de baixo nível |
 | ⚡ **Arduino / ARM-STM32F303RE** | Microcontroladores usados nos testes |
-| 👨‍💻 **Ambiente de Desenvolvimento** | [VS Code](https://code.visualstudio.com/) + [Extensões úteis](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) |
+| 👨‍💻 **Ambiente de Desenvolvimento** | [VS Code](https://code.visualstudio.com/) + [Extensões úteis](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) + [ARDUINO IDE](https://www.arduino.cc/) |
 | 🐳 **Containerização** | [Docker Desktop](https://www.docker.com/products/docker-desktop/) |
 | 💻 **Sistema Operacional** | Windows 10/11 |
 
