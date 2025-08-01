@@ -74,7 +74,7 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 ---
 
 ## 📘 Documentação e tutoriais
-- [Documentação oficial do Arduino (C++)]([https://www.arduino.cc/reference/en/](https://docs.arduino.cc/language-reference/pt/))
+- [Documentação oficial do Arduino (C++)](https://docs.arduino.cc/language-reference/pt/)
 - [Documentação oficial de (C++)](https://cplusplus.com/doc/tutorial/)
 - [CURSO C++ (YouTube)](https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40&index=1&ab_channel=CFBCursos)
 - [CURSO ARDUINO (YouTube)](https://www.youtube.com/watch?v=Vuof27YELEI&t=114s)
