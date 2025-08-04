@@ -67,7 +67,7 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 
 ---
 # ARDUINO COM RUST: 
-- [ARDUINO COM RUST](https://github.com/Alice-grandel/PROJETO.ARDUINO/blob/c++/README.md)
+- [ARDUINO COM RUST](https://github.com/Alice-grandel/PROJETO.ARDUINO/edit/c%2B%2B/README.md)
 ---
 
 ## 🛠️ PROJETOS
