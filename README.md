@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+Arduino+com+C%2B%2B+—+Projeto+Experimental;Aprendizado+Real+com+Hardware+Real!+💡" alt="🤖 c++ enbedded" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+Arduino+com+C%2B%2B+—+Projeto+Experimental;Aprendizado+Real+com+Hardware+Real!+💡" alt="🤖 C++ ENBEDDED" />
 </h1>
 
 <p align="center">
