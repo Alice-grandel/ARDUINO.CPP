@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+Arduino+com+C%2B%2B+—+Projeto+Experimental;Aprendizado+Real+com+Hardware+Real!+💡" alt="🤖 Arduino — Projeto Experimental" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+Arduino+com+C%2B%2B+—+Projeto+Experimental;Aprendizado+Real+com+Hardware+Real!+💡" alt="🤖 c++ enbedded" />
 </h1>
 
 <p align="center">
@@ -13,18 +13,13 @@
 
 <p align="center">
   <img width="100" height="2051" alt="ISO_C++_Logo svg" src="https://github.com/user-attachments/assets/fce28b01-dcc8-4f22-acb8-8cdffb4b9799" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="100" alt="Arduino Logo"/>
-</p>
+  </p>
 
 ---
 
 ## 🌟 Sobre o projeto
 
-Este repositório é uma coleção dos meus experimentos usando **C++** com **Arduino** — Ainda não sei se quero trabalhar com embarcados, mas eu quero:
-
-> **Aprender algo difícil, diferente e me tornar uma desenvolvedora melhor.**  
-> E isso aqui é diferente de tudo que já fiz. 💡
+Este repositório é uma coleção dos meus projetos usando *C++* embarcados, aqui vou usar placas como arduino, stm32, raspbarry e esp32 
 
 ---
 
@@ -37,25 +32,15 @@ Este repositório é uma coleção dos meus experimentos usando **C++** com **Ar
 
 ---
 
-## ❓ FAQ
-
-**➡️ Dá pra usar esse projeto com Arduino Uno?**  
-Sim! A arquitetura AVR do Uno é totalmente compatível com C++, que é a linguagem nativa usada na maioria dos projetos com Arduino.
-
-**➡️ Por que arduino com C++?**  
-Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá controle total da máquina, e é padrão na comunidade Arduino. Além disso, é uma ótima base para entender o funcionamento real dos sistemas embarcados.
-
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 | Tecnologia | Descrição |
 |------------|-----------|
 | 🧠 **C++** | Linguagem eficiente e poderosa para sistemas de baixo nível |
-| ⚡ **Arduino / AVR-ATmega328 E ARM-STM32F303RE** | Microcontroladores usados nos testes |
+| ⚡ **Microcontroladores** | STM32F303RE, STM32F103C6T6, raspbarry pi, esp32, arduino |
 | 👨‍💻 **Ambiente de Desenvolvimento** | [VS Code](https://code.visualstudio.com/) + [Extensões úteis](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) + [ARDUINO IDE](https://www.arduino.cc/) |
 | 🐳 **Containerização** | [Docker Desktop](https://www.docker.com/products/docker-desktop/) |
-| 💻 **Sistema Operacional** | Windows 10/11 |
+| 💻 **Sistema Operacional** | arch-linux |
 
 ---
 
@@ -65,21 +50,13 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" alt="C++ Logo"/>
 </p>
 
----
-# ARDUINO COM RUST: 
-- [ARDUINO COM RUST](https://github.com/Alice-grandel/PROJETO.ARDUINO)
----
+## 🛠️ Projetos
 
-## 🛠️ PROJETOS
-- [CARRO ROBO DESENVOLVIDO EM C++: ]()
-- [BRAÇO ROBOTICO: ]
-- [ARANHA-ROBO COM SENSOR ULTRASSONICO E CONTROLE REMOTO]
+- [CARRO ROBÔ ](#)
+- [BRAÇO ROBÓTICO](https://github.com/Alice-grandel/Garra-robotica)
+- [SERVIDOR CRÍTICO NA RASPBERRY PI](https://github.com/Alice-grandel/SERVIDOR-CRITICO)
+- [ARANHA-ROBO COM SENSOR ULTRASSÔNICO E CONTROLE REMOTO](#)
 
----
-## 🛠️ PROJETOS
-- [CARRO ROBO DESENVOLVIDO EM C++: ](https://github.com/Alice-grandel/CARRO-ROBO.RS)
-- [BRAÇO ROBOTICO: ]
-- [ARANHA-ROBO COM SENSOR ULTRASSONICO E CONTROLE REMOTO]
 ---
 
 ## 📘 Documentação e tutoriais
@@ -127,16 +104,20 @@ Porque o C++ é extremamente poderoso para embarcados. Ele é rápido, te dá co
 
 ---
 
-# Projeto ATmega328 em C++
+# Projeto piscar led stm32 em C++
 
 Este projeto é um exemplo básico de como fazer o LED da placa piscar.  
 
-https://github.com/user-attachments/assets/44cf57d2-f90e-4191-b477-78f5926ec135
+
+https://github.com/user-attachments/assets/25b5eb50-cefc-43d8-80b4-50527bbd5223
 
 
 
-## CÓDIGO PRINCIPAL PISCAR LED:
-<img width="829" height="572" alt="semaforo" src="https://github.com/user-attachments/assets/b98f703c-de52-4b2e-a9d0-4bbf7e5335a1" />
+
+
+
+## CÓDIGO PISCAR LEDS:
+<img width="948" height="749" alt="screenshot-2025-09-03_21-32-54" src="https://github.com/user-attachments/assets/3533aa40-7d5c-4c03-984d-372d69443e0a" />
 
 ---
 
