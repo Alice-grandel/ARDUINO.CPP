@@ -54,7 +54,7 @@ Este repositório é uma coleção dos meus projetos usando *C++* embarcados, aq
 
 - [CARRO ROBÔ ](#)
 - [BRAÇO ROBÓTICO](https://github.com/Alice-grandel/Garra-robotica)
-- [SERVIDOR CRÍTICO NA RASPBERRY PI](https://github.com/Alice-grandel/SERVIDOR-CRITICO)
+- [SERVIDOR NA RASPBERRY PI](https://github.com/Alice-grandel/SERVIDOR-CRITICO)
 - [ARANHA-ROBO COM SENSOR ULTRASSÔNICO E CONTROLE REMOTO](#)
 
 ---
