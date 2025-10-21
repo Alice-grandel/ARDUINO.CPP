@@ -48,9 +48,8 @@ Placas utilizadas:
 ---
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="100" alt="C Logo"/>
+<img width="102" height="120" alt="c_original_logo_icon_146611" src="https://github.com/user-attachments/assets/1e93ca8c-5fb9-455c-9470-091eff3e0ddf" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" height="100" alt="Arduino Logo"/>
 </p>
 
 ---
