@@ -65,7 +65,7 @@ Placas utilizadas:
 ---
 
 ## 📘 Documentação e tutoriais
-- [Documentação C++ para embarcados (bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
+- [Documentação C para embarcados (bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
 - [Documentaçao Linguagem C++](https://cplusplus.com/doc/tutorial/program_structure/)
 - [Datasheets STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
 - [Documentação RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
