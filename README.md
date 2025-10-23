@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Low%20Level-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-Low%20Level-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Autodidata📚-Em%20progresso-brightgreen?style=for-the-badge" />
   <a href="#código-principal-piscar-led">
     <img src="https://img.shields.io/badge/Ver-Código-9cf?style=for-the-badge&logo=codeforces" alt="Ver Código" />
@@ -15,20 +15,20 @@
 
 ## 🌟 Sobre o projeto
 
-Este repositório reúne meus projetos usando **C embarcado bare-metal**, sem depender de frameworks ou IDEs de alto nível.  
+Este repositório reúne meus projetos usando **C++ embarcado bare-metal e um pouco de assembly arm**, sem depender de frameworks ou IDEs de alto nível.  
 O objetivo é entender **como o hardware funciona de verdade**, manipulando registradores, GPIOs, timers e periféricos diretamente.
 
 Placas utilizadas:  
-- STM32 (Blue Pill, STM32F303RE)  
-- Raspberry Pi Pico (RP2040)  
-- ESP32  
-- Arduino (modo bare-metal, sem Arduino IDE)  
+- STM32 
+- Raspberry Pi
+- ESP32
+- arduino  
 
 ---
 
 ## 🎯 Objetivos
 
-- ✅ Praticar **C em sistemas embarcados bare-metal**  
+- ✅ Praticar **C++ para sistemas embarcados**  
 - ✅ Entender a manipulação direta de registradores e portas  
 - ✅ Aprender a lidar com hardware real sem abstrações  
 - ✅ Documentar meu aprendizado e compartilhar projetos técnicos  
@@ -39,7 +39,7 @@ Placas utilizadas:
 
 | Tecnologia | Descrição |
 |------------|-----------|
-| 🧠 **C** | Linguagem eficiente e poderosa para baixo nível e sistemas embarcados |
+| 🧠 **C++** | Linguagem eficiente e poderosa para baixo nível e sistemas embarcados |
 | ⚡ **Microcontroladores** | STM32F303RE, STM32F103C6T6, RP2040, ESP32, Arduino (bare-metal) |
 | 👨‍💻 **Ambiente de Desenvolvimento** | VS Code + Extensões de ARM/GCC + CMake/Makefile |
 | 🐳 **Containerização** | Docker (para builds e cross-compiling) |
@@ -64,17 +64,17 @@ Placas utilizadas:
 ---
 
 ## 📘 Documentação e tutoriais
-- [Documentação C para embarcados (bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
+- [Documentação C(bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
 - [Documentaçao Linguagem C++](https://cplusplus.com/doc/tutorial/program_structure/)
 - [Datasheets STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
-- [Documentação RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
-- [Documentação ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)  
+- [Datasheet RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
+- [Datashet ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)  
 
 ---
 
 ## 📚 O que estou estudando
 
-- Fundamentos de **C embarcado bare-metal**  
+- Fundamentos de **C++ embarcado**  
 - Manipulação de registradores e portas GPIO  
 - Timers, interrupções e PWM  
 - Comunicação via UART/I2C/SPI  
