@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+C+Embarcado+—+Bare-Metal+Experiments;Aprendizado+Real+com+Hardware+💡" alt="🤖 C EMBEDDED BARE-METAL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+C+Embarcado+—+Bare-Metal+Experiments;Aprendizado+Real+com+Hardware+💡" alt="🤖 C++ EMBEDDED BARE-METAL" />
 </h1>
 
 <p align="center">
