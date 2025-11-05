@@ -65,7 +65,7 @@ Placas utilizadas:
 
 ## 📘 Documentação e tutoriais
 - [Documentação C(bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
-- [Documentaçao Linguagem C](https://www.w3schools.com/c/index.php)
+- [Documentaçao Linguagem C++](https://www.w3schools.com/cpp/default.asp)
 - [Datasheets STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
 - [Datasheet RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
 - [Datashet ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)  
