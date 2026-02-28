@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+C+Embarcado+—+Bare-Metal+Experiments;Aprendizado+Real+com+Hardware+💡" alt="🤖 C EMBEDDED" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=🤖+C+Embarcado+—+Bare-Metal+Experiments;Aprendizado+Real+com+Hardware+💡" alt="🤖 C++ EMBEDDED" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Low%20Level-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Cpp-Low%20Level-blue?style=for-the-badge&logo=c++" />
   <img src="https://img.shields.io/badge/Autodidata📚-Em%20progresso-brightgreen?style=for-the-badge" />
   <a href="#código-principal-piscar-led">
     <img src="https://img.shields.io/badge/Ver-Código-9cf?style=for-the-badge&logo=codeforces" alt="Ver Código" />
@@ -15,7 +15,7 @@
 
 ## 🌟 Sobre o projeto
 
-Este repositório reúne meus projetos usando **C embarcado e um pouco de assembly**, sem depender de frameworks ou IDEs de alto nível.  
+Este repositório reúne meus projetos usando **C++ embarcado e um pouco de assembly**, sem depender de frameworks ou IDEs de alto nível.  
 O objetivo é entender **como o hardware funciona de verdade**, manipulando registradores, GPIOs, timers e periféricos diretamente.
 
 Placas utilizadas:  
@@ -28,7 +28,7 @@ Placas utilizadas:
 
 ## 🎯 Objetivos
 
-- ✅ Praticar **C para sistemas embarcados**  
+- ✅ Praticar **C/C++ para sistemas embarcados**  
 - ✅ Entender a manipulação direta de registradores e portas  
 - ✅ Aprender a lidar com hardware real sem abstrações  
 - ✅ Documentar meu aprendizado e compartilhar projetos técnicos  
@@ -39,11 +39,11 @@ Placas utilizadas:
 
 | Tecnologia | Descrição |
 |------------|-----------|
-| 🧠 **C** | Linguagem eficiente e poderosa para baixo nível e sistemas embarcados |
+| 🧠 **C++** | Linguagem eficiente e poderosa para baixo nível e sistemas embarcados |
 | ⚡ **Microcontroladores** | STM32F303RE, STM32F103C6T6, RP2040, ESP32, Arduino (bare-metal) |
 | 👨‍💻 **Ambiente de Desenvolvimento** | VS Code + Extensões de ARM/GCC + CMake/Makefile |
 | 🐳 **Containerização** | Docker (para builds e cross-compiling) |
-| 💻 **Sistema Operacional** | Arch Linux / KALI-Linux |
+| 💻 **Sistema Operacional** | Arch Linux |
 
 ---
 
@@ -54,17 +54,7 @@ Placas utilizadas:
 
 ---
 
-## 🛠️ Projetos
-
-- [CARRO ROBÔ](#)  
-- [BRAÇO ROBÓTICO](https://github.com/Alice-grandel/Garra-robotica)  
-- [SERVIDOR NA RASPBERRY PI](https://github.com/Alice-grandel/SERVIDOR-CRITICO)  
-- [ARANHA-ROBO COM SENSOR ULTRASSÔNICO E CONTROLE REMOTO](#)  
-
----
-
 ## 📘 Documentação e tutoriais
-- [Documentação C(bare-metal)](https://github.com/cpq/bare-metal-programming-guide?tab=readme-ov-file)
 - [Documentaçao Linguagem C++](https://www.w3schools.com/cpp/default.asp)
 - [Datasheets STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
 - [Datasheet RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
@@ -100,10 +90,11 @@ Placas utilizadas:
 
 ---
 
-# ESP32 WEMOS D1, LED NA PROTOBOARD:
-<img width="806" height="681" alt="image" src="https://github.com/user-attachments/assets/b7cba2e7-4fba-424a-8f8f-014a1fb7d910" />
+# RASPBERRY PI RP2040, SEMÁFORO NA PROTOBOARD:
+https://github.com/user-attachments/assets/901c22b3-f76f-4f54-834d-4b37d07d15d1
 
 
-# CODIGO PISCAR-LED C BARE-METAL: 
-<img width="806" height="614" alt="image" src="https://github.com/user-attachments/assets/93a9e16f-87a6-4f4a-a792-f555d37286d3" />
+
+# CODIGO PISCAR-LED: 
+<img width="710" height="539" alt="image" src="https://github.com/user-attachments/assets/d7a0a8a8-f199-4b05-a005-bdfde2ab0617" />
 
