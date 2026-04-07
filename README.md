@@ -15,7 +15,7 @@
 
 ## 🌟 Sobre o projeto
 
-Este repositório reúne meus projetos usando **C++ embarcado e um pouco de assembly**, sem depender de frameworks ou IDEs de alto nível.  
+Este repositório reúne meus projetos usando **linux embarcado e C bare-metal**.  
 O objetivo é entender **como o hardware funciona de verdade**, manipulando registradores, GPIOs, timers e periféricos diretamente.
 
 Placas utilizadas:  
@@ -28,7 +28,7 @@ Placas utilizadas:
 
 ## 🎯 Objetivos
 
-- ✅ Praticar **C/C++ para sistemas embarcados**  
+- ✅ **C++ para sistemas embarcados**  
 - ✅ Entender a manipulação direta de registradores e portas  
 - ✅ Aprender a lidar com hardware real sem abstrações  
 - ✅ Documentar meu aprendizado e compartilhar projetos técnicos  
@@ -41,9 +41,8 @@ Placas utilizadas:
 |------------|-----------|
 | 🧠 **C++** | Linguagem eficiente e poderosa para baixo nível e sistemas embarcados |
 | ⚡ **Microcontroladores** | STM32F303RE, STM32F103C6T6, RP2040, ESP32, Arduino (bare-metal) |
-| 👨‍💻 **Ambiente de Desenvolvimento** | VS Code + Extensões de ARM/GCC + CMake/Makefile |
+| 👨‍💻 **Ambiente de Desenvolvimento** | linux + vim + Extensões de ARM/GCC + CMake/Makefile |
 | 🐳 **Containerização** | Docker (para builds e cross-compiling) |
-| 💻 **Sistema Operacional** | Arch Linux |
 
 ---
 
@@ -55,20 +54,10 @@ Placas utilizadas:
 ---
 
 ## 📘 Documentação e tutoriais
-- [Documentaçao Linguagem C++](https://www.w3schools.com/cpp/default.asp)
+- [Documentaçao Linguagem C++](https://cplusplus.com/doc/tutorial/)
 - [Datasheets STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)  
 - [Datasheet RP2040](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)  
 - [Datashet ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)  
-
----
-
-## 📚 O que estou estudando
-
-- Fundamentos de **C embarcado**  
-- Manipulação de registradores e portas GPIO  
-- Timers, interrupções e PWM  
-- Comunicação via UART/I2C/SPI  
-- Datasheets dos chips AVR, ARM e RP2040  
 
 ---
 
@@ -77,7 +66,7 @@ Placas utilizadas:
 - 💡 LED piscando usando GPIO direto  
 - 🔌 Comunicação serial via UART  
 - ⚙️ Controle de registradores e periféricos sem abstração  
-- 🔧 Setup funcional de C bare-metal com STM32 e RP2040  
+- 🔧 Setup funcional de Raspbarry pi e C bare-metal  
 
 ---
 
