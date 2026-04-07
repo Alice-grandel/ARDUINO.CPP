@@ -85,5 +85,4 @@ https://github.com/user-attachments/assets/901c22b3-f76f-4f54-834d-4b37d07d15d1
 
 
 # CODIGO PISCAR-LED: 
-<img width="710" height="539" alt="image" src="https://github.com/user-attachments/assets/d7a0a8a8-f199-4b05-a005-bdfde2ab0617" />
 
